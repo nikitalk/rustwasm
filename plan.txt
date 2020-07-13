@@ -1,0 +1,3 @@
+cargo run --release
+if al good then
+wasm-pack build
